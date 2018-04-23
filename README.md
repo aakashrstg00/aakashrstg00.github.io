@@ -1,1 +1,2 @@
-# Aakash Rastogi - Full Stack Web Developer and ML Enthusiast
+# Aakash Rastogi
+Full Stack Web Developer and ML Enthusiast
