@@ -1,0 +1,22 @@
+{
+    "name": "Aakash Rastogi"
+    , "dob": "13/11/1998"
+    , "description": "I am a Front-End Developer. Take a look at my portfolio to see what I was working."
+    , "college": "Bharati Vidyapeeth College Of Engineering, New Delhi"
+    , "contact": {
+        "phone": ["9718691200", "7011049524"]
+        , "mail": "1998aakashrastogi@gmail.com"
+    }
+    , "links": {
+        "facebook": "https://www.facebook.com/1998aakashrastogi"
+        , "insta": "https://www.instagram.com/joey.doesnot.share.food"
+        , "twitter": "https://twitter.com/aakashrstg98"
+        , "linkedin": "https://www.linkedin.com/in/aakashrstg98"
+        , "github": "https://github.com/aakashrstg00"
+    }
+    , "workX": [{
+        "position": "Web Head"
+        , "organization": "Google Development Group BVCOE (GDGBVP), New Delhi"
+        , "description": "*something*"
+    }]
+}
