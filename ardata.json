@@ -1,22 +1,77 @@
 {
-    "name": "Aakash Rastogi"
-    , "dob": "13/11/1998"
-    , "description": "I am a Front-End Developer. Take a look at my portfolio to see what I was working."
-    , "college": "Bharati Vidyapeeth College Of Engineering, New Delhi"
-    , "contact": {
-        "phone": ["9718691200", "7011049524"]
-        , "mail": "1998aakashrastogi@gmail.com"
-    }
-    , "links": {
-        "facebook": "https://www.facebook.com/1998aakashrastogi"
-        , "insta": "https://www.instagram.com/joey.doesnot.share.food"
-        , "twitter": "https://twitter.com/aakashrstg98"
-        , "linkedin": "https://www.linkedin.com/in/aakashrstg98"
-        , "github": "https://github.com/aakashrstg00"
-    }
-    , "workX": [{
-        "position": "Web Head"
-        , "organization": "Google Development Group BVCOE (GDGBVP), New Delhi"
-        , "description": "*something*"
-    }]
+    "name": "Aakash Rastogi",
+    "dob": "910915200000",
+    "description": "Full Stack Web Developer",
+    "profile": "Hard-working developer with a fair for creating elegant solutions in the least amount of time. Developed UI for a GPS tracking app, a customer web poral, a mailer, a few starup launch websites. Passionate about machine learning, ariicial intelligence, and cloud computing. A regular atendee of web development meetups and hackathons.",
+    "education": [
+        {
+            "name": "Bharati Vidyapeeth College Of Engineering, New Delhi",
+            "degree": "Bachelor of Technology (BTech)",
+            "field_of_study": "Computer Science and Engineering",
+            "gpa": "",
+            "duration": "August 2015 - May 2019",
+            "description": ""
+        }
+    ],
+    "contact": {
+        "phone": "9718691200",
+        "email": "1998aakashrastogi@gmail.com"
+    },
+    "links": {
+        "facebook": "https://www.facebook.com/1998aakashrastogi",
+        "instagram": "https://www.instagram.com/joey.doesnot.share.food",
+        "twitter": "https://twitter.com/aakashrstg98",
+        "linkedin": "https://www.linkedin.com/in/aakashrstg98",
+        "github": "https://github.com/aakashrstg00"
+    },
+    "responsibilities": [
+        {
+            "position": "Mentor at GirlScript Summer of Code (GSSOC)",
+            "organization": "GirlScript Foundation",
+            "description": "*something*",
+            "duration": "June 2018 - August 2018"
+        },
+        {
+            "position": "Head of Web Department",
+            "organization": "Google Development Group BVP (GDGBVP)",
+            "description": "*something*",
+            "duration": "April 2017 - April 2018"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Second Runner Up at SIH 2018",
+            "description": "Won 3rd Prize at Smart India Hackathon - Software Edition, organised by the Govt. of India in March 2018"
+        },
+        {
+            "title": "Second Runner Up at Hack@BVP 2017",
+            "description": "Won 3rd Prize at Hack@BVP, organised by Bharati Vidyapeeth's College of Engineering in October 2017"
+        }
+    ],
+    "experience": [
+        {
+            "company_name": "Rocket Flyer Pvt Ltd",
+            "company_logo": "",
+            "company_address": "Ocus Quantum, Sector 44, Gurugram, India",
+            "position": "Software Engineering Intern",
+            "duration": "March 2018 - May 2018",
+            "description": "Developed UI and helped improve UX for 3 of the company's projects including its website and 2 products"
+        },
+        {
+            "company_name": "Yatra Online Pvt Ltd",
+            "company_logo": "",
+            "company_address": "",
+            "position": "Software Trainee",
+            "duration": "June 2018 - August 2018",
+            "description": "Learning Spring and Hibername frameworks used in Java EE Development and responsible for research in Text Generation AI models and making restful web service for using that model"
+        },
+        {
+            "company_name": "Halanx Technologies Pvt Ltd",
+            "company_logo": "",
+            "company_address": "",
+            "position": "Full Stack Developer",
+            "duration": "August 2018 - Present",
+            "description": "Responsible for building new and managing existing frontend tasks and handling nodejs backend secondary server."
+        }
+    ]
 }

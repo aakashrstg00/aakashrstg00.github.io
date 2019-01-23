@@ -88,13 +88,14 @@ body {
     justify-content: space-between;
     transition: 0.1s ease;
     border-radius: 2px;
+    cursor: pointer;
+    border: 2px solid var(--set-color);
 }
 
 .tile:hover {
-    transform: scale(1.08);
-    box-shadow: 0px 2px 8px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
+    box-shadow: 0px 4px 16px 8px rgba(0, 0, 0, 0.1);
     z-index: 5;
+    filter: brightness(115%);
 }
 
 .tile.tile-r {
@@ -198,12 +199,9 @@ body {
     font-size: 1.2rem;
     text-align: center;
     width: fit-content;
+    font-size: 32px;
+    margin-bottom: 24px;
     /* position: relative; */
-}
-
-.over .heading-under {
-    border: none;
-    border-bottom: 2px solid #333;;
 }
 
 /* .over .heading:after {

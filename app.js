@@ -8,7 +8,7 @@ $(document).ready(() => {
     $('.tile').click(e => {
         $('.over').animate({
             bottom: "20px",
-        });
+        }, 500);
         document.querySelector('.container').style.filter = 'blur(4px)';
     });
 });
@@ -16,6 +16,6 @@ $(document).ready(() => {
 function x() {
     $('.over').animate({
         bottom: "-100vh",
-    });
+    }, 500);
     document.querySelector('.container').style.filter = 'none';
 }
