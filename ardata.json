@@ -1,15 +1,35 @@
 {
     "name": "Aakash Rastogi",
     "dob": "910915200000",
-    "description": "Full Stack Web Developer",
+    "picture":"https://media.licdn.com/dms/image/C5103AQHeb98lYEIY7Q/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=v-cjK3ACtK0le3APZLrWsei1pymHQy_8WnNr2xlaXzs",
+    "description": "Cloud Support Associate at Amazon Web Services (AWS) [|] Full Stack Developer",
     "profile": "Hard-working developer with a fair for creating elegant solutions in the least amount of time. Developed UI for a GPS tracking app, a customer web poral, a mailer, a few starup launch websites. Passionate about machine learning, ariicial intelligence, and cloud computing. A regular atendee of web development meetups and hackathons.",
     "education": [
         {
             "name": "Bharati Vidyapeeth College Of Engineering, New Delhi",
             "degree": "Bachelor of Technology (BTech)",
             "field_of_study": "Computer Science and Engineering",
-            "gpa": "",
+            "gpa": false,
+            "grade_value": "80.51",
             "duration": "August 2015 - May 2019",
+            "description": ""
+        },
+        {
+            "name": "Bharat National Public School, New Delhi",
+            "degree": "XII",
+            "field_of_study": "Science",
+            "gpa": false,
+            "grade_value":"95.4",
+            "duration": "April 2013 - March 2015",
+            "description": ""
+        },
+        {
+            "name": "Bharat National Public School, New Delhi",
+            "degree": "X",
+            "field_of_study": "All Subjects",
+            "gpa": true,
+            "grade_value":"9.2",
+            "duration": " - March 2013",
             "description": ""
         }
     ],
@@ -38,20 +58,34 @@
             "duration": "April 2017 - April 2018"
         }
     ],
+    "certifications":[
+        {
+            "name": "AWS Solutions Architect - Associate",
+            "issuing_organization": "Amazon Web Services",
+            "expiration": true,
+            "issue_date": "October 2019",
+            "expiration date":"October 2022",
+            "credential_id":"53G3ZQVCG1E1Q953",
+            "credential_url":"http://aws.amazon.com/verification"
+
+        }
+    ],
     "awards": [
         {
             "title": "Second Runner Up at SIH 2018",
-            "description": "Won 3rd Prize at Smart India Hackathon - Software Edition, organised by the Govt. of India in March 2018"
+            "date":"March 2018",
+            "description": "Won 3rd Prize at Smart India Hackathon - Software Edition, organised by the Govt. of India"
         },
         {
             "title": "Second Runner Up at Hack@BVP 2017",
-            "description": "Won 3rd Prize at Hack@BVP, organised by Bharati Vidyapeeth's College of Engineering in October 2017"
+            "date":"October 2017",
+            "description": "Won 3rd Prize at Hack@BVP, organised by Bharati Vidyapeeth's College of Engineering"
         }
     ],
     "experience": [
         {
             "company_name": "Rocket Flyer Pvt Ltd",
-            "company_logo": "",
+            "company_logo": "https://media.licdn.com/dms/image/C510BAQFKuGzhrDZFlA/company-logo_200_200/0?e=1586390400&v=beta&t=v8AJkxcHCd68sVo8gSio50_9-zVi9rWiXqCmNj4gTLU",
             "company_address": "Ocus Quantum, Sector 44, Gurugram, India",
             "position": "Software Engineering Intern",
             "duration": "March 2018 - May 2018",
@@ -59,19 +93,27 @@
         },
         {
             "company_name": "Yatra Online Pvt Ltd",
-            "company_logo": "",
-            "company_address": "",
+            "company_logo": "https://media.licdn.com/dms/image/C4E0BAQHLHd7mqjQbkw/company-logo_200_200/0?e=1586390400&v=beta&t=A9UNYiURTQmWbYscP8hgZLFfEtAfhWZ54paHADFmzek",
+            "company_address": "Gurugram",
             "position": "Software Trainee",
             "duration": "June 2018 - August 2018",
-            "description": "Learning Spring and Hibername frameworks used in Java EE Development and responsible for research in Text Generation AI models and making restful web service for using that model"
+            "description": "Learning Spring and Hibernate frameworks used in Java EE Development and responsible for research in Text Generation AI models and making restful web service for using that model"
         },
         {
             "company_name": "Halanx Technologies Pvt Ltd",
-            "company_logo": "",
-            "company_address": "",
+            "company_logo": "https://media.licdn.com/dms/image/C4E0BAQE7gnwvydILYQ/company-logo_200_200/0?e=1586390400&v=beta&t=uOdxw5TZkCZ9LBGOuAY8BnnfLJ3Tz5WnU6bc2LY0AbI",
+            "company_address": "Noida",
             "position": "Full Stack Developer",
             "duration": "August 2018 - Present",
             "description": "Responsible for building new and managing existing frontend tasks and handling nodejs backend secondary server."
+        },
+        {
+            "company_name": "Amazon Web Services",
+            "company_logo": "https://media.licdn.com/dms/image/C4D0BAQGzuSBRRRuphw/company-logo_200_200/0?e=1586390400&v=beta&t=uQ-DTsROHyaPXCqlpaOuX3mMcn_LRS8psKjrQwHtXII",
+            "company_address": "Bangalore",
+            "position": "Cloud Support Associate",
+            "duration": "July 2019 - Present",
+            "description": ""
         }
     ]
 }
